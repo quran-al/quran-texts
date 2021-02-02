@@ -1,0 +1,6 @@
+title_original = "Der Heilige Koran"
+title_english = "The Holy Quran"
+translators_romanized = ["Al-Azhar Islamic University"]
+publisher_english = "Al-Azhar Islamic University, Cairo, Egypt"
+source = "al-quran.info"
+text_types = ["translation"]

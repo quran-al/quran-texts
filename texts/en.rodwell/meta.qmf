@@ -1,0 +1,6 @@
+title_english = "The Koran"
+translators_romanized = ["John Medows Rodwell"]
+translators_links = ["http://en.wikipedia.org/wiki/The_Koran_%28Rodwell%29"]
+publication_year = 1861
+source = "al-quran.info"
+text_types = ["translation"]

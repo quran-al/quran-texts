@@ -1,0 +1,4 @@
+translators_original = ["Теофанов"]
+translators_romanized = ["Tzvetan Theophanov"]
+source = "tanzil.net"
+text_types = ["translation"]

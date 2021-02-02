@@ -1,0 +1,6 @@
+title_english = "KORAN, Commonly called The Alcoran of Mohammed, Translated into English immediately from the Original Arabic"
+translators_romanized = ["George Sale"]
+translators_links = ["http://en.wikipedia.org/wiki/George_Sale"]
+publication_year = 1734
+source = "al-quran.info"
+text_types = ["translation"]

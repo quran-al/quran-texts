@@ -1,0 +1,5 @@
+translators_original = ["Мухаммад Содик"]
+translators_romanized = ["Muhammad Sodik Muhammad Yusuf"]
+translators_links = ["https://en.wikipedia.org/wiki/Muhammad_Sadik_Muhammad_Yusuf"]
+text_types = ["translation", "commentary"]
+source = "tanzil.net"

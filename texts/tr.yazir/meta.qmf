@@ -1,0 +1,4 @@
+translators_original = ["Elmalılı Hamdi Yazır"]
+translators_romanized = ["Elmalili Hamdi Yazir"]
+source = "tanzil.net"
+text_types = ["translation"]

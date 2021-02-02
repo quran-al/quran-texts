@@ -1,0 +1,7 @@
+translators_original = ["Кулиев"]
+translators_romanized = ["Elmir Kuliev"]
+commentators_original = ["ас-Саади"]
+commentators_romanized = ["Abd ar-Rahman as-Saadi"]
+text_types = ["translation", "commentary"]
+source = "tanzil.net"
+

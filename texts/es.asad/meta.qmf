@@ -1,0 +1,4 @@
+translators_romanized = ["Muhammad Asad"]
+translators_links = ["http://en.wikipedia.org/wiki/The_Message_of_The_Qur%27an"]
+source = "al-quran.info"
+text_types = ["translation"]

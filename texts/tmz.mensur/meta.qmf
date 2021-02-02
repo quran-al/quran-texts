@@ -1,0 +1,7 @@
+title_original = "Le Qwran s tmaziat"
+title_english = "The Qur’an in Tamazight"
+description_english = "Mensur’s translation represented a significant departure from mainstream translations of the Qur’an and created controversy among intellectuals for different reasons. One such reason is his deviation from agreed-upon conventions on Qur’an translation stipulated by Islamic clerics. For example, Mensur lacked the sort of religious education that could qualify him to translate the meanings of the Qur’an; also, his translation was not accompanied by the original Arabic text as required by traditional scholars. However, most importantly, it [...] demonstrated an overt attempt on the part of the translator to distance the Berber nation from the Arabic language and culture and instead foreground the Berber language and heritage that shaped his translation project as a Berberist attempt to appropriate the Arabic Qur’an."
+translators_romanized = ["Ramdane At Mansour"]  # from Algeria
+publication_date = 2006
+source = "tanzil.net"
+text_types = ["translation"]

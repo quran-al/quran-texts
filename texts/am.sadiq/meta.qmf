@@ -1,0 +1,4 @@
+translators_original = ["ሳዲቅ", "ሳኒ ሐቢብ"]
+translators_romanized = ["Muhammed Sadiq", "Muhammed Sani Habib"]
+source = "tanzil.net"
+text_types = ["translation"]

@@ -1,0 +1,4 @@
+translators_romanized = ["Sumaja Muhammad Afifi", "Abdel' Salam al-Mansi"]
+translators_original = ["Сумайя Мухаммад Афифи", "Абдель Салям эль-Манси"]
+source = "al-quran.info"
+text_types = ["translation"]

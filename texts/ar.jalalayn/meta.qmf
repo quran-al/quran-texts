@@ -1,0 +1,6 @@
+title_original = "تفسير الجلالين"
+title_romanized = "Tafsir al-Jalalayn"
+title_english = "Al-Jalalayn Commentary"
+commentators_romanized = ["Jalal ad-Din al-Mahalli", "Jalal ad-Din as-Suyuti"]
+text_types = ["commentary"]
+source = "tanzil.net"

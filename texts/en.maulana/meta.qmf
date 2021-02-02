@@ -1,0 +1,6 @@
+title_english = "The Holy Qur'an: Text"
+translators_romanized = ["Maulana Muhammad Ali"]
+translators_links = ["http://en.wikipedia.org/wiki/Maulana_Muhammad_Ali"]
+publication_year = 1917
+source = "al-quran.info"
+text_types = ["translation"]

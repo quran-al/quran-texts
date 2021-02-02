@@ -1,0 +1,4 @@
+translators_original = ["Diyanet İşleri"]
+translators_romanized = ["Diyanet Isleri"]
+source = "tanzil.net"
+text_types = ["translation"]

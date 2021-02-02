@@ -1,0 +1,4 @@
+title_romanized = "Al Qur'an"
+title_english = "The Quran"
+description_english = "As close to the original as it gets: not even vowel markers."
+text_types = ["original"]

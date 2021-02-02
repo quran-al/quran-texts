@@ -1,0 +1,8 @@
+title_original = "古兰经"
+title_english = "Quran"
+title_romanized = "Gǔlánjīng"
+translators_romanized = ["Mǎ Jiān"]
+translators_original = ["马坚"]
+translators_links = ["https://en.wikipedia.org/wiki/Muhammad_Ma_Jian"]
+text_types = ["translation"]
+source = "tanzil.net"
